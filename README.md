@@ -1,4 +1,6 @@
-# Welcome to Io, the Kalliope for Debian Bullseye
+# Welcome to Io
+Io is built for Debian Bullseye only.
+I am a beginner, use this at your own risk
 
 Io is built on Kalliope
 
@@ -40,7 +42,7 @@ sudo apt update
 sudo apt install -y git python3-dev libpython3-dev libsmpeg0 libttspico-utils flac \
 sudo apt install -y libffi-dev libssl-dev portaudio19-dev build-essential \
 sudo apt install -y libatlas3-base mplayer wget vim sudo locales \
-sudo apt install -y pulseaudio-utils libasound2-plugins python3-pyaudio libasound-dev \
+sudo apt install -y pulseaudio-utils libasound2-plugins python3-pyaudio libasound2-dev \
 sudo apt install -y libportaudio2 libportaudiocpp0 ffmpeg
 ```
 
