@@ -22,8 +22,7 @@ attaching an input **signal** (vocal order, scheduled event, MQTT message, GPIO 
 - [Kalliope website](https://kalliope-project.github.io/)
 - [Kallioe Neurons Marketplace](https://kalliope-project.github.io/neurons_marketplace.html)
 
-## License
-Copyright (c) 2018. All rights reserved. Kalliope is covered by the  GNU GENERAL PUBLIC LICENSE v3.0. Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. For the full license text see the [LICENSE.md](LICENSE.md) file.
+Kalliope's License: Copyright (c) 2018. All rights reserved. Kalliope is covered by the  GNU GENERAL PUBLIC LICENSE v3.0. Kalliope's Copyright and license notices must be preserved. Contributors provide an express grant of patent rights. See the [LICENSE.md](LICENSE.md) file for more details.
 
 
 # Install requirements Updated for Debian Bullseye
